@@ -1,0 +1,25 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vs/
+*.code-workspace
+
+# Logs
+*.log
+
+# Environment variables (if any in future)
+.env
+.env.local
+.env.*.local
+
+# Cache / temp files
+*.cache
+*.temp
+*.swp
+*.swo
+
+# Build / dist (if you ever use a bundler later)
+dist/
+build/
